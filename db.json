@@ -1,0 +1,26 @@
+{
+    "produtos" : [
+     { "id" : 1 ,
+      "nome" : " Predisona 20mg 10 comprimidos" ,
+       "descrição" : " A Prednisona 20mg Genérico Medley é um corticóide indicado em afecções que requeiram ação anti-inflamatória e imunossupressora. Deverá ser utilizada de acordo com as orientações médicas, respeitando a dosagem, os horários e a duração do tratamento. Leia a bula. ",
+    "valor" : 11.90 },
+    {
+        "id" : 2 ,
+        "nome" : "Cefalexina 500mg Genérico Germed 10 Comprimido" ,
+         "descrição": "A Cefalexina 500mg Genérico Germed é um antibiótico indicado para o tratamento de infecções sensíveis aos agentes do fármaco, tais como sinusites, infecções do trato respiratório, otite média e infecções da pele. Somente comprado com apresentação de receita médica. Contém 10 comprimidos",
+        "valor": 42.78},
+        {
+            "id":3 ,
+            "nome":"Sabonete Líquido Nivea Creme Care Refil 200ml",
+             "descrição": "NIVEA Sabonete Líquido Creme Care proporciona sensação de intensa maciez e hidratação, além de equilíbrio com o pH da pele.",
+            "valor":5.98},
+            {
+                "id":4,
+                "nome":"Fralda Geriátrica Tena Slip Ultra Dermacare EG 7 Unidades" , 
+                "descrição":"Fralda TENA Dermacare possui dupla camada e um núcleo de alta absorção que rapidamente retém a urina promovendo segurança em um produto hipoalergênico. ",
+                "valor":35
+            }
+   ]
+   
+ }
+ 
